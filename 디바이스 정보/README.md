@@ -379,48 +379,48 @@ xhdpi(~320dpi)|xxhdpi(~480dpi)|xxxhdpi(~640dpi)
 **안드로이드 스튜디오 레이아웃 분류**
 
 xxxhdpi-w460dp-h990dp<br>
-Note20 Ultra<br><br>
+Note20 Ultra<br>
 
 xxxhdpi-w430dp-h975dp<br>
 S20 Ultra<br>
 S20 Plus<br>
 
-xxxhdpi-w400dp-h900dp
-S20                       409.23x909.41      9:20
+xxxhdpi-w400dp-h900dp<br>
+S20<br>
 
-xxxhdpi-w460dp-h930dp
-Note10 Plus          462.65x976.70      9:19
+xxxhdpi-w460dp-h930dp<br>
+Note10 Plus<br>
 
-xxxhdpi-w410dp-h880dp
-S10			     418.90x884.36	    9:19
+xxxhdpi-w410dp-h880dp<br>
+S10<br>
 
-xxxhdpi-w440dp-h930dp
-S10 5G                  456.23x963.16      9:19
-S10 Plus 		     441.37x931.80       9:19
+xxxhdpi-w440dp-h930dp<br>
+S10 5G<br>
+S10 Plus<br>
 
-xxxhdpi-w430dp-h890dp
-Note9		     446.51x917.82	    9:18.5
-S9 Plus		     435.53x895.27	    9:18.5
-Note8		     442.22x909.02	    9:18.5
-S8 Plus		     435.53x895.27	    9:18.5
+xxxhdpi-w430dp-h890dp<br>
+Note9<br>
+S9 Plus<br>
+Note8<br>
+S8 Plus<br>
 
-xxxhdpi-w400dp-h820dp
-S9			     404.21x830.87	    9:18.5
-S8			     404.21x830.87	    9:18.5
+xxxhdpi-w400dp-h820dp<br>
+S9<br>
+S8<br>
 
-xxhdpi-w750dp-h930dp
-Z Fold2      758.39x947.13     4:5
+xxhdpi-w750dp-h930dp<br>
+Z Fold2<br>
 
 xxhdpi-w650dp-h930dp
-Z Fold        678.89x951.16     5:7
+Z Fold<br>
 
 xxhdpi-w400dp-h930dp
-Z Flip         406.58x992.37    9:21.9
+Z Flip<br>
 
-xxhdpi-w420dp-h930dp
-Note20      439.69x997.09    9:20
-S20 FE       424.57x943.48    9:20
+xxhdpi-w420dp-h930dp<br>
+Note20<br>
+S20 FE<br>
 
-xxhdpi-w390dp-h800dp
-Note10       430.92x909.72    9:19
-S10 e          394.52x832.87    9:19
+xxhdpi-w390dp-h800dp<br>
+Note10<br>
+S10 e<br>
