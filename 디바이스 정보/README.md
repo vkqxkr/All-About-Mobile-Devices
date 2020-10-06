@@ -371,3 +371,7 @@ OS|9:16|9:19.5
 :---:|:---:|:---:
 iOS|[SE 2th](#iPhone-SE-2th)<br>[8 Plus](#iPhone-8-Plus)<br>[8](#iPhone-8)<br>[7 Plus](#iPhone-7-Plus)<br>[7](#iPhone-7)<br>[SE 1th](#iPhone-SE-1th)|[11 Pro Max](#iPhone-11-Pro-Max)<br>[11 Pro](#iPhone-11-Pro)<br>[11](#iPhone-11)<br>[XS Max](#iPhone-XS-Max)<br>[XS](#iPhone-XS)<br>[XR](#iPhone-XR)<br>[X](#iPhone-X)
 
+**안드로이드 스튜디오 밀도한정자에 따른 분류**
+xhdpi(~320dpi)|xxhdpi(~480dpi)|xxxhdpi(~640dpi)
+:---:|:---:|:---:
+|[Z Fold2](#Galaxy-Z-Fold2)<br>[Z Fold](#Galaxy-Z-Fold)<br>[Z Flip](#Galaxy-Z-Flip)<br>[Note20](#Galaxy-Note20)<br>S20 FE](#Galaxy-S20-FE)<br>[Note10](#Galaxy-Note10)<br>[S10 e](#Galaxy-S10-e)|[Note20 Ultra](#Galaxy-Note20-Ultra)<br>[S20 Ultra](#Galaxy-S20-Ultra)<br>[S20 Plus](#Galaxy-S20-Plus)<br>[S20](#Galaxy-S20)<br>[Note10 Plus](#Galaxy-Note10-Plus)<br>[S10 5G](#Galaxy-S10-5G)<br>[S10 Plus](#Galaxy-S10-Plus)<br>[S10](#Galaxy-S10)<br>[Note9](#Galaxy-Note9)<br>[S9 Plus](#Galaxy-S9-Plus)<br>[S9](#Galaxy-S9)<br>[Note8](#Galaxy-Note8)<br>[S8 Plus](#Galaxy-S8-Plus)<br>[S8](#Galaxy-S8)
