@@ -411,10 +411,10 @@ S8<br>
 xxhdpi-w750dp-h930dp<br>
 Z Fold2<br>
 
-xxhdpi-w650dp-h930dp
+xxhdpi-w650dp-h930dp<br>
 Z Fold<br>
 
-xxhdpi-w400dp-h930dp
+xxhdpi-w400dp-h930dp<br>
 Z Flip<br>
 
 xxhdpi-w420dp-h930dp<br>
