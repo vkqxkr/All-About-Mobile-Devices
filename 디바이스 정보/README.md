@@ -375,3 +375,52 @@ iOS|[SE 2th](#iPhone-SE-2th)<br>[8 Plus](#iPhone-8-Plus)<br>[8](#iPhone-8)<br>[7
 xhdpi(~320dpi)|xxhdpi(~480dpi)|xxxhdpi(~640dpi)
 :---:|:---:|:---:
 -|[Z Fold2](#Galaxy-Z-Fold2)<br>[Z Fold](#Galaxy-Z-Fold)<br>[Z Flip](#Galaxy-Z-Flip)<br>[Note20](#Galaxy-Note20)<br>[S20 FE](#Galaxy-S20-FE)<br>[Note10](#Galaxy-Note10)<br>[S10 e](#Galaxy-S10-e)|[Note20 Ultra](#Galaxy-Note20-Ultra)<br>[S20 Ultra](#Galaxy-S20-Ultra)<br>[S20 Plus](#Galaxy-S20-Plus)<br>[S20](#Galaxy-S20)<br>[Note10 Plus](#Galaxy-Note10-Plus)<br>[S10 5G](#Galaxy-S10-5G)<br>[S10 Plus](#Galaxy-S10-Plus)<br>[S10](#Galaxy-S10)<br>[Note9](#Galaxy-Note9)<br>[S9 Plus](#Galaxy-S9-Plus)<br>[S9](#Galaxy-S9)<br>[Note8](#Galaxy-Note8)<br>[S8 Plus](#Galaxy-S8-Plus)<br>[S8](#Galaxy-S8)
+
+**안드로이드 스튜디오 레이아웃 분류**
+
+xxxhdpi-w460dp-h990dp<br>
+Note20 Ultra<br><br>
+
+xxxhdpi-w430dp-h975dp<br>
+S20 Ultra<br>
+S20 Plus<br>
+
+xxxhdpi-w400dp-h900dp
+S20                       409.23x909.41      9:20
+
+xxxhdpi-w460dp-h930dp
+Note10 Plus          462.65x976.70      9:19
+
+xxxhdpi-w410dp-h880dp
+S10			     418.90x884.36	    9:19
+
+xxxhdpi-w440dp-h930dp
+S10 5G                  456.23x963.16      9:19
+S10 Plus 		     441.37x931.80       9:19
+
+xxxhdpi-w430dp-h890dp
+Note9		     446.51x917.82	    9:18.5
+S9 Plus		     435.53x895.27	    9:18.5
+Note8		     442.22x909.02	    9:18.5
+S8 Plus		     435.53x895.27	    9:18.5
+
+xxxhdpi-w400dp-h820dp
+S9			     404.21x830.87	    9:18.5
+S8			     404.21x830.87	    9:18.5
+
+xxhdpi-w750dp-h930dp
+Z Fold2      758.39x947.13     4:5
+
+xxhdpi-w650dp-h930dp
+Z Fold        678.89x951.16     5:7
+
+xxhdpi-w400dp-h930dp
+Z Flip         406.58x992.37    9:21.9
+
+xxhdpi-w420dp-h930dp
+Note20      439.69x997.09    9:20
+S20 FE       424.57x943.48    9:20
+
+xxhdpi-w390dp-h800dp
+Note10       430.92x909.72    9:19
+S10 e          394.52x832.87    9:19
